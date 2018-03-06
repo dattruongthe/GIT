@@ -1,3 +1,4 @@
 Cmsmart/Megamenu/Block/*
 !Cmsmart/Megamenu/Block/Megamenu.php
 !Cmsmart/Megamenu/Block/Catalog/
+.idea/
