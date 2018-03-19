@@ -6,6 +6,7 @@ class Cmsmart_Megamenu_Block_Megamenu extends Mage_Core_Block_Template
 {
 	public function _prepareLayout()
     {
+        // test git
         return parent::_prepareLayout();
         
     }
