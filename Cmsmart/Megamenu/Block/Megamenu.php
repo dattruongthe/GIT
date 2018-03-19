@@ -1,6 +1,8 @@
 <?php
 /*
 * Name Extension: Megamenu
+ *
+ *
 */
 class Cmsmart_Megamenu_Block_Megamenu extends Mage_Core_Block_Template
 {

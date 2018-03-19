@@ -1,6 +1,8 @@
 <?php
 /*
 * Name Extension: Megamenu
+ *
+ *
 */
 $installer = $this;
 $installer->startSetup();
